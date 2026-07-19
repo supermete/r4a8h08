@@ -1,0 +1,11 @@
+argcomplete==3.7.0
+click==8.4.2
+filelock==3.31.0
+numpy==2.5.1
+packaging==26.2
+pipx==1.16.0
+platformdirs==4.10.1
+pymodbus==3.14.0
+pyserial==3.5
+setuptools==83.0.0
+userpath==1.9.2
